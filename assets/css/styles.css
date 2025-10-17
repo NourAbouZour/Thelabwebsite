@@ -239,6 +239,17 @@ html { scroll-behavior: smooth; }
   animation: fadeSlideUp 0.8s ease-out 1s forwards;
 }
 
+/* Hero logo image replacing super-title */
+.hero-logo {
+  display: block;
+  margin: 0 auto;
+  width: min(60vw, 320px);
+  height: auto;
+  filter: drop-shadow(0 8px 24px rgba(0,0,0,0.45));
+  opacity: 0;
+  animation: fadeSlideUp 0.8s ease-out 0.4s forwards;
+}
+
 .collab-logos { 
   margin-top: 10px;
   opacity: 0;
@@ -617,6 +628,20 @@ html { scroll-behavior: smooth; }
   display: flex;
   align-items: center;
   gap: 12px;
+  margin:auto;
+}
+.footer-logos {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.footer-logo-img {
+  height: 28px;
+  width: auto;
+  filter: drop-shadow(0 4px 10px rgba(0,0,0,0.5));
+}
+@media (min-width: 768px) {
+  .footer-logo-img { height: 32px; }
 }
 .footer-logo .brand-mark {
   width: 24px;
@@ -789,7 +814,7 @@ html { scroll-behavior: smooth; }
 /* Lightbox flip support - Mobile First */
 .lightbox .flip-icon { 
   position: absolute; 
-  right: 7%; 
+  right: 8%; 
   top: 24%; 
   opacity: 1 !important; 
   transform: none !important; 

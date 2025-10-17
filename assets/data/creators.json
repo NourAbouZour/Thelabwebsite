@@ -1,0 +1,114 @@
+{
+  "creators": [
+    {
+      "id": "c1",
+      "name": "Charles Khoury",
+      "slug": "charles-khoury",
+      "x": 18,
+      "y": 22,
+      "summary": "Lebanese post-war contemporary artist (b. 1966, Beirut) known for his vibrant, symbolic works exploring humanity, memory, and coexistence. His art bridges abstraction and expressionism, often portraying playful figures within chaotic harmony.",
+      "details": "CHARLES KHOURY\n\nOverview:\nLebanese post-war contemporary artist (b. 1966, Beirut) known for his vibrant, symbolic works exploring humanity, memory, and coexistence. His art bridges abstraction and expressionism, often portraying playful figures within chaotic harmony.\n\nConcept Idea:\nHe reinterpreted one of his earlier sculptures into a sculptural chair, transforming artistic form into functional design while retaining its abstract and expressive essence.\n\nTechnology Used by Naggiar:\nMain structure: 10 mm steel, laser-cut, bent, and welded.\nFinished in black powder coat.\nColored parts were first modeled in cardboard, then replicated in powder-coated steel and glued to the main frame.\n\nBiography:\nGraduate of ALBA (Lebanese Academy of Fine Arts); member of UNESCO Paris through the International Association of Fine Arts.\nExhibited globally (France, UK, Dubai, China, etc.) and winner of the Special Jury Award at Nicolas Sursock Museum (2008).\nInfluences: Kandinsky, Klee, Picasso.\nStyle: Thick outlines, overlapping forms, coexistence motifs.\n\nArtist Cartel\nNaggiar x Wedesign",
+      "image": "assets/images/Charles Khoury.jpg"
+    },
+    {
+      "id": "c2",
+      "name": "Zena Assi",
+      "slug": "zena-assi",
+      "x": 35,
+      "y": 30,
+      "summary": "Lebanese-born (1974), London-based artist whose multidisciplinary work examines migration, urban memory, and identity through painting, sculpture, and installation.",
+      "details": "ZENA ASSI\n\nOverview:\nLebanese-born (1974), London-based artist whose multidisciplinary work examines migration, urban memory, and identity through painting, sculpture, and installation.\n\nConcept Idea:\n\"Anatomy of a Bloom\" — a hybrid flower sculpture (organic + industrial) symbolizing displacement, resilience, and survival.\nPetals bear Beirut's cityscape and miniature figures, echoing memory and conflict; inspired by Louise Bourgeois' Maman.\n\nTechnology Used by Naggiar:\nLaser-cut stainless-steel sheets, welded rods.\n3D-printed figures cast in brass, oxidized for gunmetal finish.\nUV printing on metal surfaces to apply detailed imagery.\nDeveloped from a tape-and-stick mock-up, scaled to 2 m.\nRequired precise digital modeling for fluidity and detail.\n\nBiography:\nAward-winning artist (Royal Academy 2020, SWA 2018, Sursock 2009).\nHer works are in Institut du Monde Arabe, Barjeel Foundation, and ALBA collections.\nExhibited worldwide (Royal Academy London, Tanit Gallery, Venice Biennale 2017, MOCA Saudi Arabia 2025).\nWebsite: www.zenaassi.com\n\nArtist Cartel\nNaggiar x Wedesign",
+      "image": "assets/images/Zena Assi by Gibert Hage.jpg"
+    },
+    {
+      "id": "c3",
+      "name": "Wissam (Ouisam) Melhem",
+      "slug": "ouisam-melhem",
+      "x": 56,
+      "y": 18,
+      "summary": "Lebanese architect, painter, and sculptor exploring human identity through symbols like the city, bird, and cloud. Teaches at AUB, ALBA, NDU, and LU.",
+      "details": "WISSAM (OUISAM) MELHEM\n\nOverview:\nLebanese architect, painter, and sculptor exploring human identity through symbols like the city, bird, and cloud. Teaches at AUB, ALBA, NDU, and LU.\n\nConcept Idea:\n\"Bel Wejj Mreyeh (Oh Mirror Mirror)\" — examines our digital reflection and the fragmented identity shaped by technology and AI.\nMirrored boxes represent screens that distort perception and individuality.\n\nTechnology Used by Naggiar:\nLaser-cut brushed and mirror-finish stainless steel.\nOxidized surfaces for tonal contrast.\nWelded and passivated structure for seamless surfaces.\nAluminum spheres polished to mirror finish as \"floating clouds.\"\n\nBiography:\nBorn 1974. Holds degrees in Architecture and Landscape Urbanism.\nExhibited globally (Lebanon, Spain, Japan, Egypt, USA).\nDeveloped the \"reKUNSTruction\" concept — art as rebuilding human consciousness.\n\nArtist Cartel\nNaggiar x Wedesign",
+      "image": "assets/images/Wissam Melhem  .jpg"
+    },
+    {
+      "id": "c4",
+      "name": "Nayla Kai Saroufim",
+      "slug": "nayla-saroufim",
+      "x": 74,
+      "y": 28,
+      "summary": "Lebanese artist based between Los Angeles and Beirut. Known for vibrant mixed-media works blending pop art, abstraction, and industrial materials.",
+      "details": "NAYLA KAI SAROUFIM\n\nOverview:\nLebanese artist based between Los Angeles and Beirut.\nKnown for vibrant mixed-media works blending pop art, abstraction, and industrial materials.\n\nConcept Idea:\n\"The 4 Fs — Flight, Freedom, Fearlessness, Faith\"\nA sculptural lighting piece featuring four symbolic elements: nest, bird, bullet, and spiral, narrating resilience, hope, and transformation.\n\nTechnology Used by Naggiar:\nLaser-cut steel (red), brass (dome), stainless steel (other parts).\nOrigami-shaped birds welded and folded with precision.\nWelding + passivation for seamless finish.\nIntegrated lighting and electrical system for dual art-function role.\n\nBiography:\nHolds degree in Illustration & Art Direction (ALBA).\nActive for 20+ years, exhibited globally (LA, NY, Paris, Seoul, Doha).\nKnown for transforming industrial materials into poetic metal installations.\n\nArtist Cartel\nNaggiar x Wedesign",
+      "image": "assets/images/Nayla Saroufim 02_FINAL.jpg"
+    },
+    {
+      "id": "c5",
+      "name": "Nayla Romanos Iliya",
+      "slug": "nayla-romanos-iliya",
+      "x": 82,
+      "y": 46,
+      "summary": "Lebanese architect and artist whose sculptures bridge architecture and emotion. Her art transforms personal and social narratives into poetic forms.",
+      "details": "NAYLA ROMANOS ILIYA\n\nOverview:\nLebanese architect and artist whose sculptures bridge architecture and emotion.\nHer art transforms personal and social narratives into poetic forms.\n\nConcept Idea:\n\"Memorial of Light\" — commemorates victims of the Beirut Port explosion (Aug 4 2020).\nA conical mirrored core and 218 illuminated brass cylinders represent lost lives, while perforations symbolize scars.\n\nTechnology Used by Naggiar:\nLaser-cut stainless steel and brass sheets.\nPerforation, micro-welding, and rolling of cones and dome.\nBrass oxidation, electrical integration, and metal subframe fabrication.\nPrecise craftsmanship to balance light, memory, and reflection.\n\nBiography:\nArchitect-turned-sculptor, active since 2011.\nHer works are in major institutions: Institut du Monde Arabe, AUB Museum, Bagri Foundation, and soon British Museum.\nLives between London and Beirut.\n\nArtist Cartel\nNaggiar x Wedesign",
+      "image": "assets/images/Nayla Romanos ILIYA by Maher Attar.jpg"
+    },
+    {
+      "id": "c6",
+      "name": "Missak Terzian",
+      "slug": "missak-terzian",
+      "x": 66,
+      "y": 62,
+      "summary": "Lebanese-American artist (b. 1949, Beirut) of Armenian descent; known for semi-abstract and geometric abstraction exploring spirituality and nature.",
+      "details": "MISSAK TERZIAN\n\nOverview:\nLebanese-American artist (b. 1949, Beirut) of Armenian descent; known for semi-abstract and geometric abstraction exploring spirituality and nature.\n\nConcept Idea:\n\"Olive Tree\" — a 3 m stainless-steel sculpture symbolizing resilience, peace, and nature's generosity.\nDepicts the olive tree as eternal giver — a monument of endurance and renewal.\n\nTechnology Used by Naggiar:\nLaser-cut stainless-steel sheets (mirror + brushed).\nCutting, welding, heating, and hand molding to shape organic leaves.\nEntirely crafted without fabrication drawings, relying on visual interpretation.\n\nBiography:\nStudied at Ecole d'Art Guvder and London College of Printing.\nExhibited in 148 global shows; works in Institut du Monde Arabe and Sursock Museum.\nExplores transcendence, spirituality, and time through color and nature.\n\nArtist Cartel\nNaggiar x Wedesign",
+      "image": "assets/images/Missak.jpg"
+    },
+    {
+      "id": "c7",
+      "name": "Marie Munier",
+      "slug": "marie-munier",
+      "x": 44,
+      "y": 72,
+      "summary": "Legendary Lebanese jewelry designer since the 1970s; known for ancient Mediterranean-inspired luxury art jewelry and lighting.",
+      "details": "MARIE MUNIER\n\nOverview:\nLegendary Lebanese jewelry designer since the 1970s; known for ancient Mediterranean-inspired luxury art jewelry and lighting.\n\nConcept Idea:\n\"SUKUN (Stillness)\" — a kinetic light sculpture symbolizing inner calm and motion within silence.\nRotating brass-and-iron form projects rhythmic shadows and meditative light.\n\nTechnology Used by Naggiar:\nLaser-cut 10 mm steel & 2 mm brass sheets.\nWelded steel structure with a swivel-axis mechanism.\nPolished brass, powder-coated steel, matte lacquer finish.\nIntegrated lighting system for balanced illumination.\n\nBiography:\nTrained in interior design at ALBA; began with painting, then moved to jewelry.\nKnown for handcrafted 22 kt gold-dipped designs and historic motifs.\nExhibited for 50+ years; continues to expand into lighting sculpture.\n\nArtist Cartel\nNaggiar x Wedesign",
+      "image": "assets/images/mariemunier.jpg"
+    },
+    {
+      "id": "c8",
+      "name": "Karen Chekerdjian",
+      "slug": "karen-chekerdjian",
+      "x": 26,
+      "y": 64,
+      "summary": "Lebanese designer blending industrial design with narrative art. Educated at Domus Academy (Milan), mentored by Massimo Morozzi.",
+      "details": "KAREN CHEKERDJIAN\n\nOverview:\nLebanese designer blending industrial design with narrative art.\nEducated at Domus Academy (Milan), mentored by Massimo Morozzi.\n\nConcept Idea:\n\"Bomber Console\" — inspired by aerodynamics and balance, featuring a wing-like brass top and riveted precision structure.\n\nTechnology Used by Naggiar:\nStainless-steel structure clad in brass sheets.\nLaser cutting, rolling, and brushing.\nStud welding + CNC-fabricated studs for precision.\nLacquered finish enhancing metallic tones and durability.\n\nBiography:\nFrom film sets to Milan studios, Chekerdjian merges art and design.\nExhibited at Sfeir-Semler Gallery, Design Miami, Institut du Monde Arabe, and Milan Furniture Fair.\nRuns a Beirut studio focusing on limited-edition pieces.\n\nArtist Cartel\nNaggiar x Wedesign",
+      "image": "assets/images/Karen's portrait by alain sauma 1 (1).jpg"
+    },
+    {
+      "id": "c9",
+      "name": "Joseph El Hourany",
+      "slug": "joseph-el-hourany",
+      "x": 16,
+      "y": 46,
+      "summary": "Lebanese architect, urban planner, philosopher, and artist exploring the boundary between material and concept via procedural sculpture.",
+      "details": "JOSEPH EL HOURANY\n\nOverview:\nLebanese architect, urban planner, philosopher, and artist exploring the boundary between material and concept via procedural sculpture.\n\nConcept Idea:\n\"Head\" — deconstructs portraiture into geometric fragments within ellipses and rectangles.\nExplores abstraction, composition, and the essence of identity through structure.\n\nTechnology Used by Naggiar:\nBased on a 20 cm hand-carved wooden model, scaled to 2 m using 3D scanning.\nConverted into 2D surfaces, then laser-cut, bent, and welded in stainless steel.\nPassivated finish to preserve detail and durability.\n\nBiography:\nHolds multiple degrees (Architecture, Philosophy, Musicology).\nDoctoral research at MIT on parametric architecture.\nPresident of the Arab Architects Association (2023).\nPublished author and exhibited internationally.\n\nArtist Cartel\nNaggiar x Wedesign",
+      "image": "assets/images/Joseph El Hourany .jpg"
+    },
+    {
+      "id": "c10",
+      "name": "Ihab Ahmad",
+      "slug": "ihab-ahmad",
+      "x": 52,
+      "y": 44,
+      "summary": "Lebanese visual artist (b. 1983) blending painting and sculpture to create whimsical, symbolic worlds filled with eyes, crowns, and trees.",
+      "details": "IHAB AHMAD\nBiography:\nMarie Munier is a pioneering Lebanese jewelry designer who launched her eponymous label\nin Beirut in the early 1970s. Originally trained in interior design at the Lebanese Academy of\nFine Arts, she began her artistic career as a painter before ﬁnding her true medium in jewelry\n— inspired by the grandeur of ancient Mediterranean civilizations.\nRenowned for her distinctive, handcrafted pieces that often incorporate antique elements and\nher signature 22kt gold dip technique, Marie has forged a legacy as a creative visionary\nwhose work has captivated audiences in Lebanon and beyond for over ﬁve decades.\nToday, she continues to evolve her artistic expression, expanding into lighting sculpture with\npieces that echo the graphic beauty of her jewelry. From canvas to couture, her work is a\nreﬂection of enduring passion and innovation — \"In creation, there is always evolution\nConcept Idea:\nSUKUN , stillness, inner calm — is both the name and essence of this luminous sculpture.\nCrafted in brass and iron, its form moves in perpetual rotation, casting shifting shadows\nacross the ceiling. These light traces echo the balance of opposites: presence and absence,\ndark and light, motion and pause.\nThough always in motion, SUKUN invites quiet. Its hypnotic rhythm draws the viewer inward,\noffering a moment of suspended time — a breath, a silence — in a world that rarely stops.\nTechnology used by Naggiar:\nThe piece was realized through laser cutting of 10 mm steel and 2 mm brass sheets, followed by\nwelding and fabrication of the steel structure and the integration of a custom swivel-axis mechanism.\nSurface treatments included polishing and mirroring of brass sheets on one side, powder coating of\nsteel elements, and application of a transparent matte lacquer on brass surfaces for protection and\nsubtle sheen.\nThe work also incorporated lighting design and complete electrical integration, ensuring both\nfunctional illumination and aesthetic harmony.\nOption 2:\n- The piece was realized through laser cutting of 10 mm steel and 2 mm brass sheets.\n- Welding and fabrication of the steel structure were completed, including integration of a custom\nswivel-axis mechanism.\n- Surface treatments included polishing and mirroring of brass sheets on one side.\n- Steel elements were powder-coated, and a transparent matte lacquer was applied on brass surfaces\nfor protection and subtle sheen.\n- The work incorporated lighting design and complete electrical integration, ensuring both functional\nillumination and aesthetic harmony.\nArtist Cartel\nNaggiar x Wedesign\nKAREN CHEKERDJIAN\nBiography:\nKaren Chekerdjian Biography:\nFrom Beirut’s ﬁlm sets to Milan’s design studios, Karen Chekerdjian has always followed\nher curiosity. She earned her Master’s in Industrial Design at Domus Academy, in 1997,\nwhere she created Mobil, her ﬁrst piece for Edra under the mentorship of Massimo Morozzi.\nRejecting following one single direction, Chekerdjian intersects art, design, and space,\nque",
+      "image": "assets/images/Ihab Ahmad.jpg"
+    },
+    {
+      "id": "c11",
+      "name": "Ghazi Baker",
+      "slug": "ghazi-baker",
+      "x": 50,
+      "y": 50,
+      "summary": "Lebanese-Iranian-Armenian artist and architect (b. 1967) known for \"visual jazz\" — dynamic, cerebral, post-structural compositions merging philosophy, pop culture, and abstraction.",
+      "details": "GHAZI BAKER\n\nOverview:\nLebanese-Iranian-Armenian artist and architect (b. 1967) known for \"visual jazz\" — dynamic, cerebral, post-structural compositions merging philosophy, pop culture, and abstraction.\n\nConcept Idea:\n\"Flora Mechanica\" — a synthetic metallic flower representing the mechanization of nature.\nCombines natural elegance with artificial precision — a post-human bloom questioning beauty and control.\n\nTechnology Used by Naggiar:\nLaser cutting, milling, welding, and passivation of brushed stainless steel.\nMulti-layer powder coating (five layers) for structure and color.\nAssembled meticulously to mimic botanical veins and petals.\nBalances fragility of nature with technological rigidity.\n\nBiography:\nSelf-taught artist, architect (AUB 1991).\nExhibited worldwide — Art Miami, KIAF Seoul, Zonamaco Mexico, Rijksmuseum Amsterdam.\nWork spans philosophy, architecture, and comic aesthetics; featured in major global collections.\n\nArtist Cartel\nNaggiar x Wedesign",
+      "image": "assets/images/Ghazi Baker .jpg"
+    }
+  ]
+}

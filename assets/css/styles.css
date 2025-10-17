@@ -832,7 +832,7 @@ html { scroll-behavior: smooth; }
 /* When card is flipped, move flip button to top right */
 .lightbox-inner:has(.lb-card.flip) .flip-icon {
   right: 19px;
-  top: 10px;
+  top: 18px;
 }
 /* Tablet and up: keep flip button fixed at top-right of the dialog */
 @media (min-width: 768px) {
@@ -1077,6 +1077,27 @@ html { scroll-behavior: smooth; }
 .accordion-header[aria-expanded="true"] .acc-icon { transform: rotate(90deg); }
 .accordion-panel { padding: 10px 14px 14px; color: var(--muted); display: none; white-space: pre-wrap; }
 .accordion-panel[data-open="true"] { display: block; }
+
+/* Static info replacing Overview in lightbox */
+.artist-static-info {
+  background: rgba(16,18,26,0.75);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 10px;
+  padding: 12px 14px;
+  margin-bottom: 8px;
+}
+.artist-static-info .asi-title {
+  margin: 0 0 6px;
+  color: var(--text);
+  font-size: 16px;
+  font-weight: 700;
+}
+.artist-static-info .asi-dim,
+.artist-static-info .asi-mat {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.5;
+}
 
 /* Biography creative layout */
 .accordion-item .bio-grid { display: grid; grid-template-columns: 1fr; gap: 10px; }

@@ -272,6 +272,66 @@
     grid.appendChild(column2);
   }
 
+  // Mapping of per-artist info replacing the Overview in the lightbox
+  // Keys are creator slugs as present in creators.json
+  const CREATOR_INFO = {
+    'marie-munier': {
+      title: 'SUKUN',
+      dimensions: '1000x1000 H=2000 mm',
+      materials: 'Steel & Brass'
+    },
+    'charles-khoury': {
+      title: 'The chair',
+      dimensions: '650x1000 H=1800 mm',
+      materials: 'Steel'
+    },
+    'nayla-saroufim': {
+      title: 'The 4 Fs: Flight. Freedom. Fearlessness. Faith.',
+      dimensions: '700x2000 H=1000 mm',
+      materials: 'Steel, Brass & Stainless Steel'
+    },
+    'zena-assi': {
+      title: 'Anatomy of a Bloom',
+      dimensions: '1500x1500 H=2300 mm',
+      materials: 'Stainless Steel Gun Metal with UV Printing and Brass Casting'
+    },
+    'missak-terzian': {
+      title: 'Olive Tree',
+      dimensions: 'Ø 4000 Dia H=3500 mm',
+      materials: 'Stainless Steel Grade 316'
+    },
+    'ouisam-melhem': {
+      title: 'Bel Wejj Mreyeh, or Oh Mirror Mirror',
+      dimensions: '1800x1500 H=2200 mm',
+      materials: 'Stainless Steel Gun Metal and Super Mirroring + Aluminium'
+    },
+    'ihab-ahmad': {
+      title: 'The Surface of Dreams',
+      dimensions: '1000x2000 H=750 mm',
+      materials: 'Steel'
+    },
+    'karen-chekerdjian': {
+      title: 'Bomber Console',
+      dimensions: '1800x550 H=800 mm',
+      materials: 'Brass'
+    },
+    'nayla-romanos-iliya': {
+      title: 'MEMORIAL OF LIGHT',
+      dimensions: 'Ø 1450, D=200 mm',
+      materials: 'Brass + Stainless Steel Gun Metal and Supermirror'
+    },
+    'ghazi-baker': {
+      title: 'Flora Mechanica',
+      dimensions: '800x1400 H=2200 mm',
+      materials: 'Stainless Steel Grade 304'
+    },
+    'joseph-el-hourany': {
+      title: 'Head',
+      dimensions: '1500x1500 H=2000 mm',
+      materials: 'Stainless Steel Grade 304'
+    }
+  };
+
   // Parse sections from PDF-like text in creators.json
   function parsePdfSections(c) {
     const text = [c.details || '', c.summary || ''].join('\n');
@@ -344,15 +404,30 @@
     details.innerHTML = '';
     const sections = creator ? parsePdfSections(creator) : { 'Overview': '', 'Purpose': '', 'Procedure': '', 'About artist': '' };
     
-    // Map internal keys to display titles
+    // Inject static info block in place of 'Overview'
+    const staticInfo = document.createElement('div');
+    staticInfo.className = 'artist-static-info';
+    if (creator) {
+      const slug = creator.slug || slugify(creator.name);
+      const info = CREATOR_INFO[slug];
+      if (info) {
+        const t = document.createElement('h3'); t.className = 'asi-title'; t.textContent = info.title;
+        const dims = document.createElement('div'); dims.className = 'asi-dim'; dims.textContent = info.dimensions;
+        const mats = document.createElement('div'); mats.className = 'asi-mat'; mats.textContent = info.materials;
+        staticInfo.appendChild(t); staticInfo.appendChild(dims); staticInfo.appendChild(mats);
+        details.appendChild(staticInfo);
+      }
+    }
+
+    // Map internal keys to display titles (excluding Overview)
     const displayTitles = {
-      'Overview': 'Overview',
+      'About artist': 'Biography',
       'Purpose': 'Concept Idea',
-      'Procedure': 'Technology used by Naggiar',
-      'About artist': 'Biography'
+      'Procedure': 'Technology used by Naggiar'
+      
     };
     
-    ['Overview','Purpose','Procedure','About artist'].forEach((key) => {
+    ['About artist','Purpose','Procedure'].forEach((key) => {
       const row = document.createElement('div'); row.className = 'row';
       const displayTitle = displayTitles[key] || key;
       const header = document.createElement('div'); header.className = 'row-header'; header.innerHTML = `<span>${displayTitle}</span><span>›</span>`;
